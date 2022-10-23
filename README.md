@@ -1,2 +1,2 @@
 # random-chicken-files
-idk how to add files lol
+click on the files, and then click raw and you should get download thing
